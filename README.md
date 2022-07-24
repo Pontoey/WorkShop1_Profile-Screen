@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 #� �W�o�r�k�S�h�o�p�1�_�P�r�o�f�i�l�e�-�S�c�r�e�e�n�
 �
 �
-![Screenshot1](assets/imgs/001.jpg)
+![Screenshot1](assets/imgs/293271567_467478854718714_3094024946278264477_n.png)
